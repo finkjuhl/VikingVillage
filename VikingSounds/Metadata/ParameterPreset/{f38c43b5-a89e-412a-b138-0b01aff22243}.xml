@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{f38c43b5-a89e-412a-b138-0b01aff22243}">
+        <property name="name">
+            <value>Dirt</value>
+        </property>
+        <relationship name="folder">
+            <destination>{65639802-b465-4e64-b591-b24a48bb97ae}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{d8d95c76-6fad-47bc-8642-b64b53c8d2d5}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{d8d95c76-6fad-47bc-8642-b64b53c8d2d5}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

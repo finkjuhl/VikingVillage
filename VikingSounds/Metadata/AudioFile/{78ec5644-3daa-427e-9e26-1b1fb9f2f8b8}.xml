@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{78ec5644-3daa-427e-9e26-1b1fb9f2f8b8}">
+        <property name="assetPath">
+            <value>411800__starvingpony__footstep-august-18-2017.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.7704535147392291</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{93722cd5-5c08-4c5c-ae4b-707b181322f6}</destination>
+        </relationship>
+    </object>
+</objects>

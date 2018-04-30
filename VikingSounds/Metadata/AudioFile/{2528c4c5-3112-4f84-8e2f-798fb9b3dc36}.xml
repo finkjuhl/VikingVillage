@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{2528c4c5-3112-4f84-8e2f-798fb9b3dc36}">
+        <property name="assetPath">
+            <value>Footsteps, Wood, Creaky, Sneaker, Medium SND1113 2.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.39531250000000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{93722cd5-5c08-4c5c-ae4b-707b181322f6}</destination>
+        </relationship>
+    </object>
+</objects>

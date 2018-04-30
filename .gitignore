@@ -3,7 +3,16 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/UnityPackageManager/
 /Assets/AssetStoreTools*
+/Assets/Standard Assets/
+/Assets/Plugins/
+/Assets/Prefabs/
+/Assets/Plugins/
+/Assets/Models/
+/Assets/Editor Default Resources/
+/Assets/Textures/
+
 
 # Visual Studio 2015 cache directory
 /.vs/
